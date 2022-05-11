@@ -26,5 +26,5 @@ pylint = "~=2.4"
 selenium = "==3.141.0"
 twine = "*"
 WebTest = "==2.0.23"
-yapf = "==0.22.0"
+yapf = "==0.32.0"
 
